@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="src" path="lfwdemo/src/portalspec"/>
+	<classpathentry kind="src" output="lfwdemo/classes" path="lfwdemo/src/public"/>
+	<classpathentry kind="src" output="lfwdemo/classes" path="lfwdemo/src/client"/>
+	<classpathentry kind="src" output="lfwdemo/classes" path="lfwdemo/src/private"/>
+	<classpathentry kind="src" output="lfwdemo/classes" path="lfwdemo/resources"/>
+	<classpathentry kind="src" output="lfwdemo/classes" path="lfwdemo/src/test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="nc.uap.lfw.library.container/Ant_Library"/>
 	<classpathentry kind="con" path="nc.uap.lfw.library.container/Product_Common_Library"/>

@@ -25,5 +25,6 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>nc.uap.lfw.ModuleProjectNature</nature>
 		<nature>nc.uap.portal.ModuleProjectNature</nature>
+		<nature>nc.uap.lfw.BizCompProjectNature</nature>
 	</natures>
 </projectDescription>
